@@ -1,8 +1,10 @@
+streamlit
 pandas
-numpy
 seaborn
 matplotlib
-scikit-learn
-streamlit
 plotly
+numpy
+statsmodels
+scikit-learn
+prophet
 # -e .
