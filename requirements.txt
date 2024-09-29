@@ -3,7 +3,7 @@ pandas
 seaborn
 matplotlib
 plotly
-numpy
+numpy<2.0
 statsmodels
 scikit-learn
 prophet
