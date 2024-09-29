@@ -7,4 +7,5 @@ numpy<2.0
 statsmodels
 scikit-learn
 prophet
+openpyxl
 # -e .
